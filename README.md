@@ -1,2 +1,3 @@
-# SpringBreak2019
-Spring Break 2019
+# Summer 2019
+Website for the summer 2019 Trip
+
