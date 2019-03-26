@@ -5,3 +5,6 @@ body{
 #border-stuff{
   border-style: groove;
 }
+a {
+  color:yellow;
+}
